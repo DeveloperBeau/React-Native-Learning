@@ -14,7 +14,7 @@ export default class App extends Component {
       authDomain: 'manager-895ea.firebaseapp.com',
       databaseURL: 'https://manager-895ea.firebaseio.com',
       projectId: 'manager-895ea',
-      storageBucket: '',
+      storageBucket: 'manager-895ea.appspot.com',
       messagingSenderId: '433158965003'
     };
     firebase.initializeApp(config);
